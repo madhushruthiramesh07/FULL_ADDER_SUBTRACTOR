@@ -49,7 +49,16 @@ Write the detailed procedure here
 
 **RTL Schematic**
 
+<img width="1359" height="719" alt="image" src="https://github.com/user-attachments/assets/b16db0eb-5b91-4ada-80a1-57ea6221a832" />
+<img width="1325" height="532" alt="image" src="https://github.com/user-attachments/assets/dcdc673f-e3fa-4892-8c98-8f425678f8d5" />
+
+
+
+
 **Output Timing Waveform**
+<img width="1359" height="719" alt="Screenshot 2025-10-10 134114" src="https://github.com/user-attachments/assets/2b0d10a5-9bb6-4fed-bd25-45eba960c306" />
+<img width="1441" height="719" alt="image" src="https://github.com/user-attachments/assets/47e9de26-66e3-4ce3-aba1-210341b9681b" />
+
 
 **Result:**
 
