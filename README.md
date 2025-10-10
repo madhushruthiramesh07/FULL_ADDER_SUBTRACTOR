@@ -48,7 +48,8 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
-<img width="1173" height="520" alt="Screenshot 2025-10-10 134053" src="https://github.com/user-attachments/assets/72988407-1fe4-45bf-a035-a9f3290aa2ff" />
+<img width="1325" height="534" alt="Screenshot 2025-10-10 134827" src="https://github.com/user-attachments/assets/68478720-6954-41a7-8069-19543e752aa2" />
+
 
 
 <img width="1325" height="532" alt="image" src="https://github.com/user-attachments/assets/dcdc673f-e3fa-4892-8c98-8f425678f8d5" />
@@ -57,7 +58,8 @@ Write the detailed procedure here
 
 
 **Output Timing Waveform**
-<img width="1359" height="719" alt="Screenshot 2025-10-10 134114" src="https://github.com/user-attachments/assets/2b0d10a5-9bb6-4fed-bd25-45eba960c306" />
+<img width="1435" height="765" alt="Screenshot 2025-10-10 135036" src="https://github.com/user-attachments/assets/b2a2bd41-fcc9-4240-b7b6-6d171cb07594" />
+
 <img width="1441" height="719" alt="image" src="https://github.com/user-attachments/assets/47e9de26-66e3-4ce3-aba1-210341b9681b" />
 
 
