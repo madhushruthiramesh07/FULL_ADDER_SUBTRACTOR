@@ -48,8 +48,9 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+<img width="1173" height="520" alt="Screenshot 2025-10-10 134053" src="https://github.com/user-attachments/assets/72988407-1fe4-45bf-a035-a9f3290aa2ff" />
 
-<img width="1359" height="719" alt="image" src="https://github.com/user-attachments/assets/b16db0eb-5b91-4ada-80a1-57ea6221a832" />
+
 <img width="1325" height="532" alt="image" src="https://github.com/user-attachments/assets/dcdc673f-e3fa-4892-8c98-8f425678f8d5" />
 
 
